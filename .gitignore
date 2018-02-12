@@ -1,0 +1,4 @@
+.DS_Store
+Common/__pycache__/
+Players/__pycache__/
+.vscode
